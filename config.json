@@ -1,0 +1,13 @@
+{
+    "host" : "localhost",
+    "user" : "mhrytsenko",
+    "password" : "securepass",
+    "database" : "usof_backend",
+    "port" : "3306",
+    "EMAIL_USER" : "rashad.kling@ethereal.email",
+    "EMAIL_PASS" : "fPn7tgmvUEb6bDZUeF",
+    "EMAIL_HOST" : "smtp.ethereal.email",
+    "EMAIL_PORT" : 587,
+    "SECRET_ACCESS" : "SECRET_KEY_ACCESS",
+    "SECRET_REFRESH" : "SECRET_KEY_REFRESH"
+}
